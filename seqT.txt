@@ -1,0 +1,1 @@
+seqT = 'AACGTGCAG'
