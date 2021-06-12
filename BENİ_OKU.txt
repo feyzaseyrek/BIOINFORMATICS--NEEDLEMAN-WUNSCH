@@ -1,1 +1,3 @@
-Needleman-Wunsch algoritması biyoinformatikte, protein veya nükleotit dizilerini hizalamak için kullanılanılan bir algoritmadır.  Bu projede NCBI (https://www.ncbi.nlm.nih.gov/) sitesinden aldığım FASTA formatındaki DNA parçalarını hizalamak için bu proje gerçekleştirilmiştir. Yerel ve global olmak üzere iki tip hizalama içerir.
+Needleman-Wunsch algoritması biyoinformatikte, protein veya nükleotit dizilerini hizalamak için kullanılanılan bir algoritmadır. 
+Bu projede NCBI (https://www.ncbi.nlm.nih.gov/) sitesinden aldığım FASTA formatındaki DNA parçalarını hizalamak için bu proje gerçekleştirilmiştir. 
+Yerel ve global olmak üzere iki tip hizalama içerir.
